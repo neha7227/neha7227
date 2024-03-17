@@ -23,6 +23,20 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **React.js**
   
 - 👨‍💻 All of my projects are available at [<link>](<link>)
+  *	QTrip - https://nehai-qtrip-dynamic.netlify.app/
+Upgraded static travel site built using HTML/CSS and made it dynamic using JavaScript.
+
+It is a travel website aimed at travellers looking for a multitude of adventures in different cities. During the course of this project,
+•	Created web pages using HTML and CSS and made them dynamic using JavaScript
+•	Improved UX with multi-select filters, image carousels
+•	Implemented conditional rendering of page elements
+•	Utilized localStorage to persist user preferences at client-side
+•	Used JQuery to facilitate the reservation form submission
+•	Deployed the website using Netlify and Heroku
+
+Skills Used: Netlify CLI, Deployment, Heroku, Netlify, Conditional Rendering, Bootstrap Carousel, Event Handling, localStorage, HTML, CSS, ES6, JavaScript, Developer Tools, Bootstrap, HTTP, REST, Responsive Design, VS Code Live Server, DOM Manipulation, cURL, JSON
+![image](https://github.com/neha7227/neha7227/assets/16195423/f9b13bbc-c751-4a1d-b716-2d2e17c842a6)
+
 
 - 💬 Ask me about **react.js, javascript, HTML, CSS**
 
