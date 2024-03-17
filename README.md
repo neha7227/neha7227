@@ -22,12 +22,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React.js**
   
-- 👨‍💻 All of my projects are available at [<link>](QTrip - https://nehai-qtrip-dynamic.netlify.app/)
-  *	QTrip - https://nehai-qtrip-dynamic.netlify.app/
+- 👨‍💻 All of my projects are available at [<link>](<link>)
+  
+  -	QTrip - https://nehai-qtrip-dynamic.netlify.app/
     
-      A travel site built using HTML/CSS and made it dynamic using JavaScript. It is a travel website aimed at travellers looking for a multitude of adventures in different cities.
-   	  During the course of this project,
-        •	Created web pages using HTML and CSS and made them dynamic using JavaScript
+     - A travel site built using HTML/CSS and made it dynamic using JavaScript. It is a travel website aimed at travellers looking for a multitude of adventures in different cities.
+   	 - During the course of this project,
+     -   •	Created web pages using HTML and CSS and made them dynamic using JavaScript
         •	Improved UX with multi-select filters, image carousels
         •	Implemented conditional rendering of page elements
         •	Utilized localStorage to persist user preferences at client-side
