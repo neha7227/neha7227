@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Neha Indoliya</h1>
+<h1 align="center">I'm Neha Indoliya</h1>
 <h3 align="center">Oracle EPM Professional Turned Front-End Developer | Cloud Architect with UI Focus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha7227&label=Profile%20views&color=0e75b6&style=flat" alt="neha7227" /> </p>
