@@ -28,13 +28,13 @@ Here are some ideas to get you started:
     
      - A travel site built using HTML/CSS and made it dynamic using JavaScript. It is a travel website aimed at travellers looking for a multitude of adventures in different cities.
    	 - During the course of this project,
-       -  	Created web pages using HTML and CSS and made them dynamic using JavaScript
-        •	Improved UX with multi-select filters, image carousels
-        •	Implemented conditional rendering of page elements
-        •	Utilized localStorage to persist user preferences at client-side
-        •	Used JQuery to facilitate the reservation form submission
-        •	Deployed the website using Netlify and Heroku
-      Skills Used: Netlify CLI, Deployment, Heroku, Netlify, Conditional Rendering, Bootstrap Carousel, Event Handling, localStorage, HTML, CSS, ES6, JavaScript, Developer Tools, Bootstrap,            HTTP, REST, Responsive Design, VS Code Live Server, DOM Manipulation, cURL, JSON
+       -   Created web pages using HTML and CSS and made them dynamic using JavaScript
+       -   Improved UX with multi-select filters, image carousels
+       -   Iplemented conditional rendering of page elements
+       -   tilized localStorage to persist user preferences at client-side
+       -   Used JQuery to facilitate the reservation form submission
+       -   Deployed the website using Netlify and Heroku
+    - Skills Used: Netlify CLI, Deployment, Heroku, Netlify, Conditional Rendering, Bootstrap Carousel, Event Handling, localStorage, HTML, CSS, ES6, JavaScript, Developer Tools, Bootstrap,            HTTP, REST, Responsive Design, VS Code Live Server, DOM Manipulation, cURL, JSON
 
 
 - 💬 Ask me about **react.js, javascript, HTML, CSS**
