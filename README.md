@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">I'm Neha Indoliya</h1>
 <h3 align="center">Oracle EPM Professional Turned Front-End Developer | Cloud Architect with UI Focus</h3>
+<p> I am a seasoned professional with 8 years of hands-on experience in Oracle Enterprise Performance Management (EPM) and Oracle Cloud Infrastructure, specializing in Change Management, Implementations, Upgrades, and Disaster Recovery Initiatives. Throughout my career, I have had the privilege of serving over 70 clients across APAC, EMEA, and LAD regions, enabling me to cultivate a deep understanding of diverse business needs and cultural contexts. </p>
+<p>Fueled by my passion for innovation and desire for personal growth, I have embarked on a journey to transition my career to frontend software development.
+To achieve this transition, I have dedicated myself to rigorous learning and practical application. I have undertaken numerous courses and embarked on various projects, including the development of e-commerce sites, travel platforms, music streaming applications, and news browsing interfaces. Through these endeavors, I have honed my skills in frontend development and acquired proficiency in essential technologies and frameworks crucial for success in this field.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha7227&label=Profile%20views&color=0e75b6&style=flat" alt="neha7227" /> </p>
 
