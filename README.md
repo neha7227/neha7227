@@ -68,7 +68,7 @@ To achieve this transition, I have dedicated myself to rigorous learning and pra
 - 	Fetched news content from flipboard's RSS feed using REST API
 - 	Deployed the website to Netlify
 
-
+-  
 - 💬 Ask me about **react.js, javascript, HTML, CSS**
 
 - 📫 How to reach me **neha.indoliya27@gmail.com**
