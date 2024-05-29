@@ -23,9 +23,9 @@ To achieve this transition, I have dedicated myself to rigorous learning and pra
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha7227&label=Profile%20views&color=0e75b6&style=flat" alt="neha7227" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+• 🌱 I’m currently learning **React.js**
   
-- 👨‍💻 All of my projects are available at [<link>](<link>)
+• 👨‍💻 All of my projects are available at [<link>](<link>)
 
 •	E-Commerce Application: https://qkart-frontend-neha7227s-projects.vercel.app/
 - Skills: React.js, React Routing, React Components, Event Handling, React State & Props, REST APIs, Fetch API, cURL, Input Validation, localStorage, Debouncing, Responsive Design, Grid, Conditional Rendering, React Refs, Deployment, Netlify
@@ -68,10 +68,10 @@ To achieve this transition, I have dedicated myself to rigorous learning and pra
 - 	Fetched news content from flipboard's RSS feed using REST API
 - 	Deployed the website to Netlify
 
--  
-- 💬 Ask me about **react.js, javascript, HTML, CSS**
+  
+• 💬 Ask me about **react.js, javascript, HTML, CSS**
 
-- 📫 How to reach me **neha.indoliya27@gmail.com**
+• 📫 How to reach me **neha.indoliya27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
