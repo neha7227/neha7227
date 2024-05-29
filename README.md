@@ -28,13 +28,13 @@ To achieve this transition, I have dedicated myself to rigorous learning and pra
 - 👨‍💻 All of my projects are available at [<link>](<link>)
 
 •	E-Commerce Application: https://qkart-frontend-neha7227s-projects.vercel.app/
-Skills: React.js, React Routing, React Components, Event Handling, React State & Props, REST APIs, Fetch API, cURL, Input Validation, localStorage, Debouncing, Responsive Design, Grid, Conditional Rendering, React Refs, Deployment, Netlify
-o	Core features like authentication (user registration and login), shopping cart, and checkout functionalities, responsive design implementation. Utilized REST APIs to dynamically fetch and render data from the backend server.
-o	Stored user information at client side using localStorage to avoid login on revisit
-o	Added search bar to display only on the Products page’s header and implemented search logic
-o	Implemented debouncing for optimization of UX and reduced page re-renderings on search
-o	Made authenticated POST API calls to implement Cart logic
-o	Deployed React app to vercel and configured vercel to support visiting any subpages directly as React is a single page application
+- Skills: React.js, React Routing, React Components, Event Handling, React State & Props, REST APIs, Fetch API, cURL, Input Validation, localStorage, Debouncing, Responsive Design, Grid, Conditional Rendering, React Refs, Deployment, Netlify
+- o	Core features like authentication (user registration and login), shopping cart, and checkout functionalities, responsive design implementation. Utilized REST APIs to dynamically fetch and render data from the backend server.
+- o	Stored user information at client side using localStorage to avoid login on revisit
+- o	Added search bar to display only on the Products page’s header and implemented search logic
+- o	Implemented debouncing for optimization of UX and reduced page re-renderings on search
+- o	Made authenticated POST API calls to implement Cart logic
+- o	Deployed React app to vercel and configured vercel to support visiting any subpages directly as React is a single page application
 
 
 •	Music Application: https://qtify-neha7227s-projects.vercel.app/
