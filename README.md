@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">I'm Neha Indoliya</h1>
 <h3 align="center">Oracle EPM Professional Turned Front-End Developer | Cloud Architect with UI Focus</h3>
-<p> I am a seasoned professional with 8 years of hands-on experience in Oracle Enterprise Performance Management (EPM) and Oracle Cloud Infrastructure, specializing in Change Management, Implementations, Upgrades, and Disaster Recovery Initiatives. Throughout my career, I have had the privilege of serving over 70 clients across APAC, EMEA, and LAD regions, enabling me to cultivate a deep understanding of diverse business needs and cultural contexts. </p>
+<p> I am a seasoned professional with hands-on experience in Oracle Enterprise Performance Management (EPM) and Oracle Cloud Infrastructure, specializing in Change Management, Implementations, Upgrades, and Disaster Recovery Initiatives. Throughout my career, I have had the privilege of serving over 70 clients across APAC, EMEA, and LAD regions, enabling me to cultivate a deep understanding of diverse business needs and cultural contexts. </p>
 <p>Fueled by my passion for innovation and desire for personal growth, I have embarked on a journey to transition my career to frontend software development.
 To achieve this transition, I have dedicated myself to rigorous learning and practical application. I have undertaken numerous courses and embarked on various projects, including the development of e-commerce sites, travel platforms, music streaming applications, and news browsing interfaces. Through these endeavors, I have honed my skills in frontend development and acquired proficiency in essential technologies and frameworks crucial for success in this field.</p>
 
@@ -26,27 +26,47 @@ To achieve this transition, I have dedicated myself to rigorous learning and pra
 - 🌱 I’m currently learning **React.js**
   
 - 👨‍💻 All of my projects are available at [<link>](<link>)
-  
-  -	QTrip - https://nehai-qtrip-dynamic.netlify.app/
-    
-     - A travel site built using HTML/CSS and made it dynamic using JavaScript. It is a travel website aimed at travellers looking for a multitude of adventures in different cities.
-   	 - During the course of this project,
-       -   Created web pages using HTML and CSS and made them dynamic using JavaScript
-       -   Improved UX with multi-select filters, image carousels
-       -   Iplemented conditional rendering of page elements
-       -   tilized localStorage to persist user preferences at client-side
-       -   Used JQuery to facilitate the reservation form submission
-       -   Deployed the website using Netlify and Heroku
-    - Skills Used: Netlify CLI, Deployment, Heroku, Netlify, Conditional Rendering, Bootstrap Carousel, Event Handling, localStorage, HTML, CSS, ES6, JavaScript, Developer Tools, Bootstrap,            HTTP, REST, Responsive Design, VS Code Live Server, DOM Manipulation, cURL, JSON
-   
-  - QKart - https://qkart-frontend-neha7227s-projects.vercel.app/
-      - It is an E-commerce application offering a variety of products for customers to choose from.
-      - During the course of this Micro-Experience, the developer:
-          -   Implemented the core logic for authentication, shopping cart and checkout
-          -   Improved UI by adding responsive design elements for uniform experience across different devices
-          -   Utilized REST APIs to dynamically load and render data served by the backend server
-          -   Deployed website to Netlify
-      -  Skills Used: React Hooks, Forms, Controlled Components, REST, JSON, Error Handling, Developer Tools, ES6, Conditional Rendering, React State & Props, React, Event Handling, LIFECYCLE METHODS, React Router, Material UI, Responsive Design, localStorage, Deployment, Netlify, Material UI Grid, Keyword Search, Debouncing
+
+•	E-Commerce Application: https://qkart-frontend-neha7227s-projects.vercel.app/
+Skills: React.js, React Routing, React Components, Event Handling, React State & Props, REST APIs, Fetch API, cURL, Input Validation, localStorage, Debouncing, Responsive Design, Grid, Conditional Rendering, React Refs, Deployment, Netlify
+o	Core features like authentication (user registration and login), shopping cart, and checkout functionalities, responsive design implementation. Utilized REST APIs to dynamically fetch and render data from the backend server.
+o	Stored user information at client side using localStorage to avoid login on revisit
+o	Added search bar to display only on the Products page’s header and implemented search logic
+o	Implemented debouncing for optimization of UX and reduced page re-renderings on search
+o	Made authenticated POST API calls to implement Cart logic
+o	Deployed React app to vercel and configured vercel to support visiting any subpages directly as React is a single page application
+
+
+•	Music Application: https://qtify-neha7227s-projects.vercel.app/
+It is a song-browsing application built from scratch using ReactJS paired with Material UI and Swiper to deliver a seamless and aesthetic user interface, offering songs from different albums and genres for music lovers.
+Skills: ReactJS, Module-scoped CSS, Flexbox, CSS variables, Condition Rendering, Component Reusability, Swiper Library usage, Material UI, Customizing Third-Party Components, Deployment, Vercel
+o	Implemented interactive features such as autocomplete search, feedback modal, and dynamic card grid. Enhanced user navigation with React Router 6 and user-friendly filter tabs for music selection
+o	Conducted a thorough analysis of the provided Figma design to successfully identifying and documenting required front-end components.
+o	Created modular UI components including Cards, Carousels, and Buttons optimizing for reusability across various sections of the application.
+o	Developed a dynamic, responsive, and reusable Card component with Material-UI integration, featuring custom CSS, efficient data handling, and enhanced user interaction through tooltips and lazy-loaded images.
+o	Utilized Axios to fetch the genre options and song data served by the backend, and performed error handling for the same.
+o	Implemented an intuitive genre-based song filtering system using a tab component by modifying the one provided by MaterialUI, allowing users to browse songs by their preferred genre effortlessly.
+o	Utilized REST APIs to fetch data served by the backend server
+o	Utilized understanding of asynchronous request handling, state management, render cycles and web performance. 
+o	Deployed the website to Vercel
+
+•	A Travel Website: https://qtrip-neha7227s-projects.vercel.app/
+Travel website aimed at travelers looking for a multitude of adventures in different cities
+Skills: HTML, CSS, JS, Bootstrap,Flex, REST APIs, JSON, DOM Manipulation, cURL, ES6, localStorage, JQuery, Conditional rendering, Carousel, Deployment, Heroku, Netlify
+o	Enhanced user experience with multi-select filters, image carousels, and conditional rendering. Implemented client-side data persistence using localStorage.
+o	Implemented data Fetch using REST API and dynamically render landing page
+o	Implemented logic to add both multi-select and single-select filters
+o	Created the Adventure details page with reservation support and the Reservations page to show all reservations
+o	Configured the website frontend to use the Heroku deployed backend and deployed the frontend to vercel
+
+•	News Feed Website: https://xboard-news-nehai.netlify.app/
+It is a News Feed website that will feature the latest news for select topics, from Flipboard.
+Skills: HTML, CSS, Bootstrap, JavaScript, JQuery
+o	Built the News Feed Website using HTML, CSS, Bootstrap, JavaScript and JQuery from scratch
+o	Utilized the figma file to understand the design requirements
+o	Used Accordions and Image Carousel to improve UI
+o	Fetched news content from flipboard's RSS feed using REST API
+o	Deployed the website to Netlify
 
 
 - 💬 Ask me about **react.js, javascript, HTML, CSS**
